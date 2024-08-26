@@ -5,12 +5,12 @@ Finds the maximum number in a given PDF file
 ## Usage
 
 ```sh
-    pip install -r requirements.txt
-    python main.py <PDF_FILENAME>
+pip install -r requirements.txt
+python main.py <PDF_FILENAME>
 ```
 OR
 ```sh
-    python main.py 
+python main.py 
 ```
 Note: As a small added feature, if the PDF filename is not provided as an argument,
 the script will look for and use the first PDF file it finds in the current directory
